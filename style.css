@@ -340,7 +340,7 @@ img{
 	max-width: 120px;
 	float: left;
 	margin-right: 15px;
-	border-radius: 100%;
+	/* border-radius: 100%; */
 }
 
 .text-box{
